@@ -72,17 +72,17 @@ Slider display can be changed with the following built-in classes.
 
 For tag with class 'io-lightslider' you can use:
 
-* .io-ls-animated-slow - slide slow speed scrolling;
-* .io-ls-animated-fast - slide fast speed scrolling;
-* .io-ls-animated-none - slide no scrolling, animated by fade in/out;
+* 'io-ls-animated-slow' - slide slow speed scrolling;
+* 'io-ls-animated-fast' - slide fast speed scrolling;
+* 'io-ls-animated-none' - slide no scrolling, animated by fade in/out;
 
 For tag with class 'io-ls-arrows_container' you can use:
 
-* .io-ls-arrow-withbg - it create wrapper with bg around arrow;
+* 'io-ls-arrow-withbg' - it create wrapper with bg around arrow;
 
 For tag with class 'io-ls-bullet_container' you can use:
 
-* .io-ls-static - put bullets under the slider;
+* 'io-ls-static' - put bullets under the slider;
 
 
 ## Contributions
