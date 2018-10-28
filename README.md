@@ -2,8 +2,6 @@
 > A light jQuery library for slideshow. 
 
 
-## Installation
-
 ## Usage
 For using io.lightslider you need connect jQuery and Hammer.js library in your code.
 ```html
