@@ -42,15 +42,15 @@ In this template you can change next parts:
 * id="myslider" - 'myslider' - identificator of your slider;
 * 'io-ls-animated-slow' - type of animation, can be 'io-ls-animated-slow'/'io-ls-animated-fast'/'io-ls-animated-none', more in Configuration;
 * you can add configuration options in slider main tag, more in Configurations;
-* <!--slide{1,2,3} contain--> - put here contant of your slides, it can be anything;
-* <div class="io-ls-arrows_container"></div> - you can delete this tag if you don't want show navigative arrows on your slider;
-* <div class="io-ls-arrows_container"></div> - you can add class 'io-ls-arrow-withbg' to this tag, more in Configurations;
-* <div class="io-ls-bullet_container"></div> - you can delete this tag if you don't want show navigative bullet on your slider;
-* <div class="io-ls-bullet_container"></div> - you can add class 'io-ls-static' to this tag, more in Configurations;
+* &lt;!--slide{1,2,3} contain--&gt; - put here contant of your slides, it can be anything;
+* &lt;div class="io-ls-arrows_container"&gt;&lt;/div&gt; - you can delete this tag if you don't want show navigative arrows on your slider;
+* &lt;div class="io-ls-arrows_container"&gt;&lt;/div&gt; - you can add class 'io-ls-arrow-withbg' to this tag, more in Configurations;
+* &lt;div class="io-ls-bullet_container"&gt;&lt;/div&gt; - you can delete this tag if you don't want show navigative bullet on your slider;
+* &lt;div class="io-ls-bullet_container"&gt;&lt;/div&gt; - you can add class 'io-ls-static' to this tag, more in Configurations;
 
 > Attention: Slider have default fixed height (600px), it not adaptive to it contant. You need mark height or use some height option, more in Configurations;
 
-Example of '<!--slide1 contain-->':
+Example of '&lt;!--slide1 contain--&gt;':
 ```html
 <div class="io-ls-bgimg" style="background-image: url('https://github.com/semilicon/io.lightslider/demo/img/img1.jpg');"></div>
 ```
