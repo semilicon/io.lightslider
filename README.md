@@ -11,6 +11,8 @@ For using io.lightslider you need connect jQuery and Hammer.js library in your c
 ```
 Then put in your code this template:
 ```html
+<script src="./dist/io.lightslider.min.js"></script>
+<link rel="stylesheet" href="./dist/io.lightslider.min.css" />
 <div id="myslider" class="io-lightslider io-ls-animated-slow">
 	<div class="io-ls-field">
 		<div class="io-ls-container">
