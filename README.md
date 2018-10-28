@@ -98,4 +98,4 @@ Feel encouraged to report issues or submit pull requests. When you're ready to d
 
 [contribution-guidelines]: ./CONTRIBUTING.md
 
-[license]: https://github.com/semilicon/io.lightslider/LICENSE.md
+[license]: ./LICENSE
