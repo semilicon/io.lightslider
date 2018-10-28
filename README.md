@@ -82,7 +82,7 @@ For tag with class 'io-ls-arrows_container' you can use:
 
 For tag with class 'io-ls-bullet_container' you can use:
 
-* 'io-ls-static' - put bullets under the slider;
+* 'io-ls-static' - put bullets under the slider (dafault: bullets on slider);
 
 
 ## Contributions
