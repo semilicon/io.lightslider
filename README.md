@@ -90,7 +90,7 @@ Feel encouraged to report issues or submit pull requests. When you're ready to d
 
 
 ## License
-[MIT][license]
+[MIT][license-link]
 
 
 <!-- Contributions -->
@@ -98,4 +98,4 @@ Feel encouraged to report issues or submit pull requests. When you're ready to d
 
 [contribution-guidelines]: ./CONTRIBUTING.md
 
-[license]: ./LICENSE.md
+[license-link]: ./LICENSE.md
