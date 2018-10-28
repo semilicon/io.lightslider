@@ -40,7 +40,7 @@ Then put in your code this template:
 ```
 In this template you can change next parts:
 * id="myslider" - 'myslider' - identificator of your slider;
-* 'io-ls-animated-slow' - type of animation, can be io-ls-animated-slow/io-ls-animated-fast/io-ls-animated-none, more in Configuration;
+* 'io-ls-animated-slow' - type of animation, can be 'io-ls-animated-slow'/'io-ls-animated-fast'/'io-ls-animated-none', more in Configuration;
 * you can add configuration options in slider main tag, more in Configurations;
 * <!--slide{1,2,3} contain--> - put here contant of your slides, it can be anything;
 * <div class="io-ls-arrows_container"></div> - you can delete this tag if you don't want show navigative arrows on your slider;
