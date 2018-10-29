@@ -1,5 +1,5 @@
 /*!
- * io.lightslider v1.2.1 (http://semilicon.com)
+ * io.lightslider v1.2.2 (http://semilicon.com)
  * Copyright (c) 2011-2018 Semilicon Ltd.
  * Licensed under MIT license
  */
@@ -173,7 +173,7 @@
 	box-sizing: border-box;
 	display: inline-block;
 	vertical-align: top;
-	white-space: nowrap;
+	white-space: normal;
 	overflow:hidden;
 }
 .io-lightslider[data-slider-with-cycle=false] .io-ls-container>.io-ls-wrapper>.io-ls-slide:first-child,

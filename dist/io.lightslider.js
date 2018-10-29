@@ -1,5 +1,5 @@
 /*!
- * io.lightslider v1.2.1 (http://semilicon.com)
+ * io.lightslider v1.2.2 (http://semilicon.com)
  * Copyright (c) 2011-2018 Semilicon Ltd.
  * Licensed under MIT license
  */
